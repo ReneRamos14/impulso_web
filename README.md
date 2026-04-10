@@ -2,10 +2,7 @@
 
 Descripción
 
-Esta aplicación web permite a los usuarios registrar y gestionar sus gastos personales de manera sencilla. Los usuarios pueden agregar nuevos gastos, visualizarlos en una lista y ver el total acumulado automáticamente.
-
-Funcionalidades
-Agregar nuevos gastos, mostrar lista de gastos y calcular el total automáticamente.
+Esta aplicación web permite a los usuarios poder visualizar diferentes paquetes que se pueden escoger para su negocio y el crecimiento del mismo, seleccionando diferentes paquetes, viendo los diferentes proyectos y mandando directo al contacto de whatsapp para la cotizacion de un paquete de su empresa.
 
 Autor
 Rene Ramos
